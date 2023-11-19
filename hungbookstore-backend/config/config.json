@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "uw45v154vijq22se",
+    "password": "V172t8258u50JSCIIje5",
+    "database": "bvsukkhe4ipbfcp4lh3r",
+    "host": "bvsukkhe4ipbfcp4lh3r-mysql.services.clever-cloud.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "id21225226_manhleo",
+    "password": "@Manhleo2k3",
+    "database": "id21225226_superapp",
+    "host": "databases.000webhost.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "id21225226_manhleo",
+    "password": "@Manhleo2k3",
+    "database": "id21225226_superapp",
+    "host": "databases.000webhost.com",
+    "dialect": "mysql"
+  }
+}
